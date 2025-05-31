@@ -1,1 +1,7 @@
-this file will be updated.
+ChatGPTとの対話ログの保管庫です。  
+テキストファイルとしてのエクスポート方法にMarkdown方式のファイルを採用したこと、  
+Markdownファイルのレンダリングにとても強いことから、こちら(GitHub)をお借りすることにしました。  
+（プログラミングコードではなくてすみません。）  
+  
+ログの紹介記事（導入入り口）を以下に書いています。  
+https://note.com/vaper_stoved  
